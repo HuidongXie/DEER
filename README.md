@@ -6,7 +6,7 @@ To start the training process, please prepare your training/validation/testing d
 * ``label``: N * 1 * img_width * img_height
 
 Here, N represents the number of input data.
-All datasets are stored in a hdh5 file.
+All datasets are stored in hdh5 files.
 
 
 ## Contact
