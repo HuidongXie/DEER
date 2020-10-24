@@ -10,5 +10,6 @@ All datasets are stored in a hdh5 file.
 
 
 ## Contact
-huidong.xie at yale.edu
+huidong.xie at yale dot edu
+
 Any discussions, suggestions and questions are welcome!
