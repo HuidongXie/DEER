@@ -10,7 +10,7 @@ All datasets are stored in hdh5 files.
 
 ## Citation
 If you found this code or our work usefuf, please cite us.
-Paper DOI: https://github.com/HuidongXie/DEER
+Paper DOI: https://doi.org/10.1109/ACCESS.2020.3033795
 ```
 @ARTICLE{9239986,  author={H. {Xie} and H. {Shan} and W. {Cong} and C. {Liu} and X. {Zhang} and S. {Liu} and R. {Ning} and G. {Wang}}, 
 journal={IEEE Access}, 
