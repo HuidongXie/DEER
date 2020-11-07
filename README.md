@@ -9,7 +9,8 @@ Here, N represents the number of input data.
 All datasets are stored in hdh5 files.
 
 ## Citation
-If you found this code or our work usefuf, please cite.
+If you found this code or our work usefuf, please cite us.
+Paper DOI: https://github.com/HuidongXie/DEER
 ```
 @ARTICLE{9239986,  author={H. {Xie} and H. {Shan} and W. {Cong} and C. {Liu} and X. {Zhang} and S. {Liu} and R. {Ning} and G. {Wang}}, 
 journal={IEEE Access}, 
